@@ -103,7 +103,3 @@ If the room is already booked for an overlapping time, the API responds with:
 - Dependency Injection for testability and loose coupling
 - EF Core with a real conflict-detection query
 - DTOs to avoid leaking database entities and circular references in JSON responses
-
-## License
-
-This project is for portfolio/demonstration purposes.
